@@ -1,11 +1,11 @@
 # Fatma's Portfolio 
 
-# 📊 Account Managers Performance (Excel)
+#  Account Managers Performance (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 This project is an interactive Sales Dashboard built in Microsoft Excel to analyze sales performance across different states, customer segments, years, and account managers. The dashboard provides clear business insights through dynamic charts, PivotTables, and KPIs, enabling users to monitor sales trends and compare performance efficiently.
 
-## 🎯 Dashboard Features
+## Dashboard Features
 - Total number of orders by state.
 - Order distribution by customer type.
 - Sales performance by account manager.
@@ -14,7 +14,7 @@ This project is an interactive Sales Dashboard built in Microsoft Excel to analy
 - Sales trend indicators using Sparklines.
 - Interactive Pivot Charts and PivotTables.
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -31,7 +31,7 @@ This project is an interactive Sales Dashboard built in Microsoft Excel to analy
 - Track yearly sales trends.
 - Monitor order distribution and business growth over time.
 
-## 📂 Dataset
+##  Dataset
 The dataset contains sales transactions from **2013 to 2017**, including:
 - Account Managers
 - Customer Types
@@ -39,13 +39,13 @@ The dataset contains sales transactions from **2013 to 2017**, including:
 - Order Counts
 - Sales Amounts
 
-## 🚀 Purpose
+##  Purpose
 The goal of this project is to demonstrate Excel dashboard development skills by transforming raw sales data into an interactive and easy-to-understand business report.
 
 
 
 
-# 📊 Sales Analysis Dashboard 
+#  Sales Analysis Dashboard 
 
 ## Overview
 This project presents an interactive Sales Analysis Dashboard built in Microsoft Excel. It transforms raw sales data into meaningful business insights through data cleaning, Pivot Tables, Pivot Charts, KPIs, and dynamic Slicers.
