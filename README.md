@@ -1,6 +1,8 @@
 # Fatma's Portfolio 
 
-#  Sales Analysis Dashboard 
+![Adventure Work Dashboard](Adventure%20Work%20Dashboard.png) 
+
+#  Adventure Work Dashboard 
 
 ## Overview
 This project presents an interactive Sales Analysis Dashboard built in Microsoft Excel. It transforms raw sales data into meaningful business insights through data cleaning, Pivot Tables, Pivot Charts, KPIs, and dynamic Slicers.
@@ -28,6 +30,7 @@ This project presents an interactive Sales Analysis Dashboard built in Microsoft
 - Analyzed regional sales performance.
 - Tracked revenue trends over three years.
 - Built an interactive dashboard for business decision-making.
+
 
 #  Account Managers Performance (Excel)
 
