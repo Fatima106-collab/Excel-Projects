@@ -31,7 +31,7 @@ This project presents an interactive Sales Analysis Dashboard built in Microsoft
 - Tracked revenue trends over three years.
 - Built an interactive dashboard for business decision-making.
 
-
+![Account Managers Performance](Account%20Managers%20Performance%2001.png) 
 #  Account Managers Performance (Excel)
 
 ##  Project Overview
