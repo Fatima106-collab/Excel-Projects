@@ -57,7 +57,7 @@ This project is an interactive Sales Dashboard built in Microsoft Excel to analy
 - Dashboard Design
 - Data Visualization
 
-## 📈 Key Insights
+##  Key Insights
 - Compare sales performance across different states.
 - Identify top-performing account managers.
 - Analyze customer segment contributions.
